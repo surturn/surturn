@@ -14,7 +14,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/sydney-kamau-991b362a2/"><img src="https://img.shields.io/badge/LinkedIn-Sydney_Kamau-1C8F82?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:sydneykamau2005@gmail.com"><img src="https://img.shields.io/badge/Email-Get_in_touch-D08912?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://invonicstechnologies.com"><img src="https://img.shields.io/badge/Portfolio-FORGE-13223A?style=flat-square" alt="Portfolio"></a>
+  <a href="https://sydneykamau.vercel.app"><img src="https://img.shields.io/badge/Portfolio-FORGE-13223A?style=flat-square" alt="Portfolio"></a>
   <a href="https://github.com/surturn?tab=repositories"><img src="https://img.shields.io/badge/Repositories-Browse-4C9530?style=flat-square&logo=github&logoColor=white" alt="Repositories"></a>
 </p>
 
